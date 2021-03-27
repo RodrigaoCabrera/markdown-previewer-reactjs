@@ -11,7 +11,7 @@ const App = () => {
    }
 
 const onKeyPressHandler = (event) => {
-    if (event.keyCode === 13) {
+    if (event.keyCode == 13) {
         
     }
   }
