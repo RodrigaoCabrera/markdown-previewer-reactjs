@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/markdown-previewer-reactjs/static/css/main.85b36661.chunk.css",
-    "main.js": "/markdown-previewer-reactjs/static/js/main.cbf8a6d9.chunk.js",
-    "main.js.map": "/markdown-previewer-reactjs/static/js/main.cbf8a6d9.chunk.js.map",
+    "main.css": "/markdown-previewer-reactjs/static/css/main.b2d8a451.chunk.css",
+    "main.js": "/markdown-previewer-reactjs/static/js/main.a98e6f6c.chunk.js",
+    "main.js.map": "/markdown-previewer-reactjs/static/js/main.a98e6f6c.chunk.js.map",
     "runtime-main.js": "/markdown-previewer-reactjs/static/js/runtime-main.1fca89e9.js",
     "runtime-main.js.map": "/markdown-previewer-reactjs/static/js/runtime-main.1fca89e9.js.map",
     "static/js/2.7c70f6f2.chunk.js": "/markdown-previewer-reactjs/static/js/2.7c70f6f2.chunk.js",
     "static/js/2.7c70f6f2.chunk.js.map": "/markdown-previewer-reactjs/static/js/2.7c70f6f2.chunk.js.map",
     "index.html": "/markdown-previewer-reactjs/index.html",
-    "static/css/main.85b36661.chunk.css.map": "/markdown-previewer-reactjs/static/css/main.85b36661.chunk.css.map",
+    "static/css/main.b2d8a451.chunk.css.map": "/markdown-previewer-reactjs/static/css/main.b2d8a451.chunk.css.map",
     "static/js/2.7c70f6f2.chunk.js.LICENSE.txt": "/markdown-previewer-reactjs/static/js/2.7c70f6f2.chunk.js.LICENSE.txt",
     "static/media/statusInitial.aef406f6.md": "/markdown-previewer-reactjs/static/media/statusInitial.aef406f6.md"
   },
   "entrypoints": [
     "static/js/runtime-main.1fca89e9.js",
     "static/js/2.7c70f6f2.chunk.js",
-    "static/css/main.85b36661.chunk.css",
-    "static/js/main.cbf8a6d9.chunk.js"
+    "static/css/main.b2d8a451.chunk.css",
+    "static/js/main.a98e6f6c.chunk.js"
   ]
 }
